@@ -8,6 +8,7 @@ the scanned prescription. The app also includes a log of previously used medicat
 
 
 Student Name          CSUF Email                            Student ID
+
 Tauheed Janjua        tjanjua@csu.fullerton.edu             884870528
 
 Julian Matuszewski    julianmatuszewski@csu.fullerton.edu   885487421
